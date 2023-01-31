@@ -58,7 +58,7 @@ Your order is placed. To check this, in the menu, go to **Orders**, and click yo
 
 - Confirm receipt, when you receive the order.
 
-- Track the order. Here you can copy a track number that you can later use on a delivery service website to track where your order is.
+- Track the order. Here you can copy a tracking number that you can later use on a delivery service website to track where your order is.
 
 - Get help with your order from the support team or from a seller.
 
