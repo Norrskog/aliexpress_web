@@ -52,7 +52,7 @@
     
     5.3.  Confirm the payment.
     
-Your order is placed. To check this, in the menu, go to **Orders**, and click your order to open it. On its page, you can:
+Your order is placed. In the top menu, go to **Orders**, and click your order to open it. On its page, you can:
 
 - Check the status of the order.
 
